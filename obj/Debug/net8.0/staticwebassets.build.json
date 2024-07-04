@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F3I5UvLsKUfBge1NCeclJypnJK1qniXYmIBRabdU9dg=",
+  "Source": "JobHosting",
+  "BasePath": "_content/JobHosting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

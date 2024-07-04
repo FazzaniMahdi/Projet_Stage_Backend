@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\controllers\\joblisterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:controllers\\joblisterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\repositories\\joblisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\repositories\\joblisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\joblister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\joblister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Migrations\\20240704095818_this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240704095818_this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\repositories\\ijoblisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\repositories\\ijoblisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|c:\\users\\telegrom\\desktop\\projects graveyard\\jobhosting\\models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC173EEB-7332-405F-8904-840EC32CD0F7}|JobHosting.csproj|solutionrelative:models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240704095818_this.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Migrations\\20240704095818_this.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240704095818_this.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Migrations\\20240704095818_this.cs",
+              "RelativeToolTip": "Migrations\\20240704095818_this.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:58:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JobListersController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Controllers\\JobListersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobListersController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Controllers\\JobListersController.cs",
+              "RelativeToolTip": "Controllers\\JobListersController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAiwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:55:17.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JobListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Controllers\\JobListingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobListingsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Controllers\\JobListingsController.cs",
+              "RelativeToolTip": "Controllers\\JobListingsController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAEwAwAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:35:32.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JobListerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\JobListerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\JobListerRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\JobListerRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\JobListerRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:51:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\JobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\JobListingRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:23:45.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobListerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\IJobListerRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IJobListerRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\IJobListerRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IJobListerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T12:50:34.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IJobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IJobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IJobListingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:22:30.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobLister.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\JobLister.cs",
+              "RelativeDocumentMoniker": "Models\\JobLister.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\JobLister.cs",
+              "RelativeToolTip": "Models\\JobLister.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T11:20:48.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\JobListing.cs",
+              "RelativeDocumentMoniker": "Models\\JobListing.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projects graveyard\\JobHosting\\Models\\JobListing.cs",
+              "RelativeToolTip": "Models\\JobListing.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:11:00.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
