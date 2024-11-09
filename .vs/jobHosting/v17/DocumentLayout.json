@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:controllers\\useraccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\iuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\iuseraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\ireportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\ijoblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\signupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\viewmodels\\addjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\addjoblistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\jobhostingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\jobhostingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\joblisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:controllers\\joblistingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\repositories\\joblistingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\viewmodels\\addreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\addreportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|c:\\users\\telegrom\\desktop\\projet stage front\u002Bback\\jobhosting backend\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14802B32-1646-4C0D-8312-BB74165F6486}|jobHosting.csproj|solutionrelative:models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobApplication.cs",
+              "RelativeDocumentMoniker": "Models\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobApplication.cs",
+              "RelativeToolTip": "Models\\JobApplication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T00:04:22.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IUserAccountRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IUserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IUserAccountRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IUserAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:00:18.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Models\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\UserAccount.cs",
+              "RelativeToolTip": "Models\\UserAccount.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAUwDEAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:21:51.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignUpViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\SignUpViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\SignUpViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T15:20:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\UserAccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserAccountsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\UserAccountsController.cs",
+              "RelativeToolTip": "Controllers\\UserAccountsController.cs",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAAANQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:42:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddJobListingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\AddJobListingViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AddJobListingViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\AddJobListingViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AddJobListingViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:43:48.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\AddReportViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\AddReportViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\AddReportViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\AddReportViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:43:43.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "JobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\JobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\JobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\JobListingRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:34:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JobListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\JobListingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobListingsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\JobListingsController.cs",
+              "RelativeToolTip": "Controllers\\JobListingsController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAuwKoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:50.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAUwGkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:03:42.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\ReportRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\ReportRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\ReportRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\ReportRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:56:49.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IReportRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IReportRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IReportRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IReportRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:56:12.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "Models\\Report.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Report.cs",
+              "RelativeToolTip": "Models\\Report.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:49:31.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\UserAccountRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\UserAccountRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:14:07.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobHostingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobHostingDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobHostingDbContext.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobHostingDbContext.cs",
+              "RelativeToolTip": "Models\\JobHostingDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:23:46.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T15:19:39.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IJobListingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeDocumentMoniker": "Models\\Repositories\\IJobListingRepository.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\Repositories\\IJobListingRepository.cs",
+              "RelativeToolTip": "Models\\Repositories\\IJobListingRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T10:16:21.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JobListing.cs",
+              "DocumentMoniker": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobListing.cs",
+              "RelativeDocumentMoniker": "Models\\JobListing.cs",
+              "ToolTip": "C:\\Users\\Telegrom\\Desktop\\projet stage front\u002Bback\\jobHosting backend\\Models\\JobListing.cs",
+              "RelativeToolTip": "Models\\JobListing.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T07:38:41.709Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
